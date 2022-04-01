@@ -1,0 +1,12 @@
+There is much speculation about the impact of the Common Curriculum on students choice of major, but little in the way of hard evidence. The goal of this project is to investigate the way that students’ choice of major depends on their initial interests and their performance in the Common Curriculum. Different models for this situation will be investigated, adapted, and/or developed, and their predictions evaluated. There is also potential for new data to obtained via surveys or other experiments.
+
+
+Approach:
+
+- Predicting on individual level
+- Movement from one vector to another vector of (length 14)
+
+
+2 types of lit review
+- other paper on similar movement/prediction topics
+- more statistical side
